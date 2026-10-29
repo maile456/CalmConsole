@@ -1,0 +1,4 @@
+interface:
+  display_name: "CalmConsole · 一致专业的业务工作台"
+  short_description: "统一组件与克制信息密度的工作台视觉，适合后台、仪表盘和复杂业务工具"
+  default_prompt: "使用 $calm-console 为这个项目设计一致、易扫描的专业工作台前端，保留现有框架和业务流程。"
