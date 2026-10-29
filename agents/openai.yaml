@@ -1,4 +1,4 @@
 interface:
-  display_name: "CalmConsole · 一致专业的业务工作台"
-  short_description: "统一组件与克制信息密度的工作台视觉，适合后台、仪表盘和复杂业务工具"
-  default_prompt: "使用 $calm-console 为这个项目设计一致、易扫描的专业工作台前端，保留现有框架和业务流程。"
+  display_name: "CalmConsole · Radix 组件秩序"
+  short_description: "接近 Radix Themes 的衬线标题、精细组件与主题系统，适配展示页和业务工作台"
+  default_prompt: "使用 $calm-console 为这个项目设计接近 Radix Themes 的前端，先保留参考构图与组件比例，再适配实际页面类型和现有框架。"
